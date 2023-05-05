@@ -1,0 +1,11 @@
+##
+## My frog
+##
+$the_cow = <<EOC;
+  $thoughts
+   $thoughts
+       O_O
+      (   )
+     (     )
+      "   "
+EOC
